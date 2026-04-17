@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "bea9a582b8318c72",
+        "id": "a46cdc5153935a44",
         "type": "tabs",
         "children": [
           {
-            "id": "03f1c94e509b5ae4",
+            "id": "4e075e92e616843d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Rercherche/01. FR/01. Notes de recherche/2026-04-09 Modèle Decision à Fill.md",
+                "file": "01 - Rercherche/01. FR/01. Notes de recherche/03. Journal/2026-04-17 - Formalisation de la MDL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-09 Modèle Decision à Fill"
+              "title": "2026-04-17 - Formalisation de la MDL"
+            }
+          },
+          {
+            "id": "aa703864362c87be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Rercherche/01. FR/01. Notes de recherche/02. Méthodologie/1. Design of trading systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Design of trading systems"
             }
           }
         ]
@@ -78,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 506.5
   },
   "right": {
     "id": "5ae9817d9a9c4148",
@@ -183,29 +197,43 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "03f1c94e509b5ae4",
+  "active": "4e075e92e616843d",
   "lastOpenFiles": [
-    "01 - Rercherche/01. FR/01. Notes de recherche/2026-04-07 - Refactor TransitionEngine.md",
-    "01 - Rercherche/01. FR/01. Notes de recherche/2026-04-09 Modèle Decision à Fill.md",
-    "01 - Rercherche/01. FR/01. Notes de recherche/2026-04-07 - Réflexion système.md",
+    "01 - Rercherche/01. FR/01. Notes de recherche/02. Méthodologie/1. Design of trading systems.md",
+    "01 - Rercherche/01. FR/01. Notes de recherche/03. Journal/2026-04-17 - Formalisation de la MDL.md",
+    "01 - Rercherche/01. FR/01. Notes de recherche/03. Journal/2026-04-14 - Identifiants propre et référence vers parent.md",
+    "Entretien mardi 21 avril 2026.md",
+    "01 - Rercherche/01. FR/01. Notes de recherche/03. Journal/2026-04-07 - Réflexion système.md",
+    "01 - Rercherche/01. FR/01. Notes de recherche/02. Méthodologie/2. Definition of Done.md",
+    "01 - Rercherche/02. DrawIO/MarketDataLayer.drawio.crswap",
+    "01 - Rercherche/02. DrawIO/MarketDataLayer.drawio",
+    "01 - Rercherche/02. DrawIO",
+    "01 - Rercherche/Nouveau dossier",
+    "01 - Rercherche/01. FR/01. Notes de recherche/03. Journal/Veille tech - Architectures mutation OMS depuis couches antérieures.md",
+    "02. Perso/01. Trajectoire.md",
+    "Vidéos/2026-04-03 Video about FeatureStore and Feature engineering.md",
+    "02. Perso",
+    "01 - Rercherche/02. EN/01. Research notes/How I structure a complex system using layers and state ownership.md",
+    "01 - Rercherche/01. FR/01. Notes de recherche/03. Journal/v1.2 - Objectif du refactor.md",
+    "01 - Rercherche/01. FR/01. Notes de recherche/03. Journal/Metrics à impléme,.md",
+    "01 - Rercherche/01. FR/01. Notes de recherche/03. Journal/Définition - Journal canonique des évènements.md",
+    "01 - Rercherche/01. FR/01. Notes de recherche/01. Annexes/2026-03-29 Quant dev top tier profile.md",
+    "01 - Rercherche/01. FR/01. Notes de recherche/03. Journal/2026-04-13 ExecutionInstructionResolver.md",
+    "01 - Rercherche/01. FR/01. Notes de recherche/03. Journal/2026-04-13 Nouveau modèle Décision à Portefeuille.md",
+    "01 - Rercherche/01. FR/01. Notes de recherche/03. Journal/2026-04-09 Ancien Modèle de Decision à Portfeuille.md",
+    "01 - Rercherche/01. FR/01. Notes de recherche/03. Journal/2026-03-09 Refonte et clarification FeatureStore.md",
+    "01 - Rercherche/01. FR/01. Notes de recherche/03. Journal",
+    "01 - Rercherche/01. FR/01. Notes de recherche/02. Méthodologie/2026-03-29 Séquence correcte de conception.md",
+    "01 - Rercherche/01. FR/01. Notes de recherche/03. Journal/2026-04-07 - Refactor TransitionEngine.md",
     "481CC100",
     "AB2DB100",
     "FB0DB100",
     "FA0DB100",
-    "2026-04-07 - ClassifyTransition.xlsx",
-    "8BB6B100",
-    "~$2026-04-07 - ClassifyTransition.xlsx",
     "C'est quoi le trading.md",
-    "01 - Rercherche/01. FR/01. Notes de recherche/2026-03-24 Modèle de production des évènements.md",
-    "01 - Rercherche/01. FR/01. Notes de recherche/2026-03-24 Order Lifecycle.md",
-    "01 - Rercherche/01. FR/01. Notes de recherche/2026-03-28 - R&D Couches et appartenance de l'état.md",
-    "Vidéos/2026-04-03 Video about FeatureStore and Feature engineering.md",
-    "01 - Rercherche/01. FR/01. Notes de recherche/2026-04-02 _ FeatureStore _ Tests unitaires et intégration.md",
-    "Vidéos",
-    "01 - Rercherche/01. FR/01. Notes de recherche/02. Méthodologie/2026-03-29 Séquence correcte de conception.md",
-    "01 - Rercherche/01. FR/01. Notes de recherche/2026-03-09 Refonte et clarification FeatureStore.md",
-    "01 - Rercherche/01. FR/01. Notes de recherche/02. Méthodologie",
-    "01 - Rercherche/01. FR/01. Notes de recherche/2026-03-29 FeaturePipeline.md",
-    "01 - Rercherche/01. FR/01. Notes de recherche/01. Annexes/2026-03-29 Quant dev top tier profile.md"
+    "01 - Rercherche/01. FR/01. Notes de recherche/03. Journal/2026-03-24 Modèle de production des évènements.md",
+    "01 - Rercherche/01. FR/01. Notes de recherche/03. Journal/2026-03-24 Order Lifecycle.md",
+    "01 - Rercherche/01. FR/01. Notes de recherche/03. Journal/2026-03-28 - R&D Couches et appartenance de l'état.md",
+    "01 - Rercherche/01. FR/01. Notes de recherche/03. Journal/2026-04-02 _ FeatureStore _ Tests unitaires et intégration.md",
+    "01 - Rercherche/01. FR/01. Notes de recherche/2026-03-29 FeaturePipeline.md"
   ]
 }
