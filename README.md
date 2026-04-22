@@ -14,23 +14,6 @@ It focuses on:
 - methodology for building deterministic and testable trading systems
 - research notes and conceptual exploration
 
-## Structure
-
-- `01. Recherche`
-  Exploration of concepts, ideas, and domain understanding
-
-- `02. Méthodologie`
-  Principles, modeling approaches, and system design frameworks
-
-- `04. Communication`
-  Notes and explanations aimed at clarifying reasoning
-
-- `06. Documentation`
-  Structured explanations of system components
-
-- `07. Diagrammes`
-  Visual models of the system (flows, invariants, architecture)
-
 ## Philosophy
 
 The goal is to design systems that are:
