@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "6a0ca17611d603d1",
+    "id": "9b90a86e7ec0d80a",
     "type": "split",
     "children": [
       {
-        "id": "5365a086b42f5662",
+        "id": "f10c97df010b211d",
         "type": "tabs",
         "children": [
           {
-            "id": "5ebc53802280c60a",
+            "id": "b41a1e2392194a86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Rercherche/01. Journal/2026-04-27 FeatureStore.md",
+                "file": "2026-04-22 Formalisation FeatureStore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-27 FeatureStore"
+              "title": "2026-04-22 Formalisation FeatureStore"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f7ba09d3920b54c0",
+    "id": "6c01d3b4701522a6",
     "type": "split",
     "children": [
       {
-        "id": "e3e296c80629af9d",
+        "id": "d9a1287eb5d2e838",
         "type": "tabs",
         "children": [
           {
-            "id": "791595377cd6a0a6",
+            "id": "9e459d3424101149",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "ea7664c5acd3a007",
+            "id": "2a4ddf4b2061b0c1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "319b49ceedc99225",
+            "id": "2d4f4a0cdb98e5dc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,24 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506.5,
-    "collapsed": true
+    "width": 408.5
   },
   "right": {
-    "id": "5ae9817d9a9c4148",
+    "id": "776ff37af394316d",
     "type": "split",
     "children": [
       {
-        "id": "413a00493698db70",
+        "id": "947d817e1f4aec9b",
         "type": "tabs",
         "children": [
           {
-            "id": "0bc3d57cfeae9630",
+            "id": "633e088790fbb674",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Rercherche/01. FR/01. Notes de recherche/01. Annexes/2026-03-29 Quant dev top tier profile.md",
+                "file": "2026-04-22 Formalisation FeatureLayer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour 2026-03-29 Quant dev top tier profile"
+              "title": "Rétrolien pour 2026-04-22 Formalisation FeatureLayer"
             }
           },
           {
-            "id": "09d5dc65111da748",
+            "id": "71a070f9ea255403",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Rercherche/01. FR/01. Notes de recherche/01. Annexes/2026-03-29 Quant dev top tier profile.md",
+                "file": "2026-04-22 Formalisation FeatureLayer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de 2026-03-29 Quant dev top tier profile"
+              "title": "Liens sortants de 2026-04-22 Formalisation FeatureLayer"
             }
           },
           {
-            "id": "eb41065878de337d",
+            "id": "e3a9e9de0d93aea9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,7 +137,7 @@
             }
           },
           {
-            "id": "d289f4b5ce7cdf8c",
+            "id": "b76eafde78161b17",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -152,18 +151,18 @@
             }
           },
           {
-            "id": "62cbd76ac93f9021",
+            "id": "a259b0903ba1e987",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Rercherche/01. FR/01. Notes de recherche/01. Annexes/2026-03-29 Quant dev top tier profile.md",
+                "file": "2026-04-22 Formalisation FeatureLayer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 2026-03-29 Quant dev top tier profile"
+              "title": "Plan de 2026-04-22 Formalisation FeatureLayer"
             }
           }
         ]
@@ -184,43 +183,10 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "5ebc53802280c60a",
+  "active": "b41a1e2392194a86",
   "lastOpenFiles": [
-    "05. Review/01. Design/2026-04-27 FeatureStore.pdf",
-    "01. Rercherche/01. Journal/2026-04-21 Market Data Layer.md",
-    "01. Rercherche/01. Journal/2026-04-27 FeatureStore.md",
-    "01. Rercherche/01. Journal/2026-04-25 FeatureCalculator.md",
-    "01. Rercherche/01. Journal/2026-04-25 FeatureCalculator EN.md",
-    "06. Documentation/2026-04-23.md",
-    "01. Rercherche/01. Journal/2026-04-22 Formalisation FeatureLayer.md",
-    "07. Diagrammes/01. DrawIO/FeatureLayer.drawio.crswap",
-    "02. Méthodologie/2. Méthode de travail sans GPT.md",
-    "01. Rercherche/01. Journal/2026-04-23 Formalisation FeatureCalculator.md",
-    "05. Review/01. Design/2026-04-23 - Review - FeatureCalculator.md",
-    "07. Diagrammes/01. DrawIO/MarketDataLayer.drawio.crswap",
-    "07. Diagrammes/01. DrawIO/FeatureLayer.drawio",
-    "01. Rercherche/01. Journal/2026-01-01- Veille Architectures OMS.md",
-    "01. Rercherche/01. Journal/2026-01-01 - Objectif du refactor.md",
-    "07. Diagrammes/01. DrawIO/CompletePipeline.drawio.crswap",
-    "05. Review/03. Tests",
-    "05. Review/Nouveau dossier",
-    "05. Review/02. Implementation",
-    "05. Review/01. Design",
-    "07. Diagrammes/02. PDF/CompletePipeline.pdf",
-    "07. Diagrammes/02. PDF/MDL - Merged.pdf",
-    "06. Documentation/2026-04-22 Market Data Layer.md",
-    "04. Communication/2026-04-21.md",
-    "04. Communication/2026-04-03 Video about FeatureStore and Feature engineering.md",
-    "05. Review/2026-04-21 Tests review.md",
-    "02. Méthodologie/1. Design of trading systems.md",
-    "01. Rercherche/03. Journal/2026-04-19 - Formalisation de la MDL.md",
-    "2026-04-2026 Formalization of the MDL.md",
-    "April 19, 2026 - Formalization of the MDL.md",
-    "03. Perso/Trajectoire.md",
-    "03. Perso/Entretien mardi 21 avril 2026.md",
-    "01. Rercherche/01. Journal/2026-01-01- Philosophie plateforme et principes de conception.md",
-    "03. Perso/Personnalisation GPT.md",
-    "01. Rercherche/01. Journal/2026-03-24 Modèle de production des évènements.md",
-    "01. Rercherche/01. Journal/2026-03-24 Étape chemin nominal.md"
+    "2026-04-25 FeatureCalculator.md",
+    "2026-04-25 FeatureCalculator EN.md",
+    "2026-04-22 Formalisation FeatureStore.md"
   ]
 }

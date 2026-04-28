@@ -10,7 +10,7 @@ M.D.L = Market Data Layer
 - La MDL expose une fenêtre des `n` derniers `MarketDataEvent` consécutifs.
 
 ---
-## Hypothèses et pré-conditions
+## Hypothèses et préconditions
   
 - `BacktestEngine` injecte un `MarketDataEvent` à chaque `step`.
 - Chaque `MarketDataEvent` possède un  `event_id` de type `str` non vide.
