@@ -25,6 +25,24 @@ The goal is to design systems that are:
 
 This repository acts as the **thinking layer** behind the system.
 
+## Language
+
+This repository is written primarily in French, which is the native language used for reasoning and conceptual modeling.
+
+It is intentionally kept in French to preserve precision and depth of thought.
+
+## Positioning
+
+This repository is a public research workspace, not a production-ready or externally optimized artifact.
+
+It prioritizes:
+
+- clarity of reasoning
+- rigor of system design
+- explicit modeling
+- 
+over accessibility for a broad audience.
+
 ## Related
 
 - InvestIQ → implementation of the trading engine
