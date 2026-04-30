@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Rercherche/01. Journal/2026-04-27 FeatureStore.md",
+                "file": "01. Rercherche/01. Journal/FeatureStore - Code.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FeatureStore - Code"
+            }
+          },
+          {
+            "id": "1d9fe0dba34d2003",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Rercherche/01. Journal/2026-04-30 FeatureStore - EN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-27 FeatureStore"
+              "title": "2026-04-30 FeatureStore - EN"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506.5,
-    "collapsed": true
+    "width": 506.5
   },
   "right": {
     "id": "5ae9817d9a9c4148",
@@ -184,11 +198,16 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "5ebc53802280c60a",
+  "active": "1d9fe0dba34d2003",
   "lastOpenFiles": [
+    "01. Rercherche/01. Journal/2026-04-27 FeatureStore.md",
+    "01. Rercherche/01. Journal/FeatureStore - Code.md",
+    "05. Review/01. Design/FeatureStore - code.pdf",
+    "05. Review/01. Design/test.pdf",
+    "01. Rercherche/01. Journal/2026-04-30 FeatureStore - EN.md",
+    "05. Review/01. Design/2026-04-30 FeatureStore - EN.pdf",
     "05. Review/01. Design/2026-04-27 FeatureStore.pdf",
     "01. Rercherche/01. Journal/2026-04-21 Market Data Layer.md",
-    "01. Rercherche/01. Journal/2026-04-27 FeatureStore.md",
     "01. Rercherche/01. Journal/2026-04-25 FeatureCalculator.md",
     "01. Rercherche/01. Journal/2026-04-25 FeatureCalculator EN.md",
     "06. Documentation/2026-04-23.md",
@@ -204,10 +223,6 @@
     "07. Diagrammes/01. DrawIO/CompletePipeline.drawio.crswap",
     "05. Review/03. Tests",
     "05. Review/Nouveau dossier",
-    "05. Review/02. Implementation",
-    "05. Review/01. Design",
-    "07. Diagrammes/02. PDF/CompletePipeline.pdf",
-    "07. Diagrammes/02. PDF/MDL - Merged.pdf",
     "06. Documentation/2026-04-22 Market Data Layer.md",
     "04. Communication/2026-04-21.md",
     "04. Communication/2026-04-03 Video about FeatureStore and Feature engineering.md",
@@ -219,8 +234,6 @@
     "03. Perso/Trajectoire.md",
     "03. Perso/Entretien mardi 21 avril 2026.md",
     "01. Rercherche/01. Journal/2026-01-01- Philosophie plateforme et principes de conception.md",
-    "03. Perso/Personnalisation GPT.md",
-    "01. Rercherche/01. Journal/2026-03-24 Modèle de production des évènements.md",
-    "01. Rercherche/01. Journal/2026-03-24 Étape chemin nominal.md"
+    "03. Perso/Personnalisation GPT.md"
   ]
 }

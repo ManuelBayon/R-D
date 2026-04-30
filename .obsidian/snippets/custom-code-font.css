@@ -1,0 +1,38 @@
+.markdown-preview-view pre {
+  padding: 8px 12px;
+  margin: 0.8em 0;
+  overflow-x: auto;
+  white-space: pre;
+}
+
+.markdown-preview-view pre code {
+  font-size: 10px;
+  line-height: 1.35;
+  white-space: pre;
+  display: block;
+}
+
+@media print {
+  pre {
+    padding: 6px 10px;
+    margin: 0.6em 0;
+    overflow-x: auto;
+    white-space: pre;
+  }
+
+  pre code {
+    font-size: 9.5px;
+    line-height: 1.35;
+    white-space: pre;
+    display: block;
+  }
+}
+
+.markdown-preview-view {
+    font-size: 13px;
+    line-height: 1.5;
+}
+
+.markdown-preview-view h1 { font-size: 1.6em; }
+.markdown-preview-view h2 { font-size: 1.4em; }
+.markdown-preview-view h3 { font-size: 1.2em; }
