@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5365a086b42f5662",
+        "id": "e04e556187fad94b",
         "type": "tabs",
         "children": [
           {
-            "id": "5ebc53802280c60a",
+            "id": "436f3a74558b623e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Rercherche/01. Journal/FeatureStore - Code.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FeatureStore - Code"
-            }
-          },
-          {
-            "id": "1d9fe0dba34d2003",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Rercherche/01. Journal/2026-04-30 FeatureStore - EN.md",
+                "file": "01. Rercherche/01. Journal/2025-05-04 Réflexion unification backtest-live-replay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-30 FeatureStore - EN"
+              "title": "2025-05-04 Réflexion unification backtest-live-replay"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,42 +183,43 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "1d9fe0dba34d2003",
+  "active": "436f3a74558b623e",
   "lastOpenFiles": [
-    "01. Rercherche/01. Journal/2026-04-27 FeatureStore.md",
+    "01. Rercherche/01. Journal/2026-05-04 MarketDataLayer v1.2.md",
+    "01. Rercherche/01. Journal/2025-05-04 Réflexion unification backtest-live-replay.md",
+    "01. Rercherche/01. Journal/2026-05-04 Event Model.md",
+    "02. Méthodologie/4. Prompt GPT R&D.md",
+    "01. Rercherche/01. Journal/2026-05-04 Réflexions sémantique events vs payload.md",
+    "01. Rercherche/01. Journal/2026-05-04 Journal canonique et mini replay engine.md",
+    "01. Rercherche/01. Journal/2026-04-25 FeatureCalculator.md",
+    "01. Rercherche/01. Journal/2026-04-21 Market Data Layer.md",
+    "02. Méthodologie/3. Itérations R&D.md",
+    "02. Méthodologie/2. Méthode de travail sans GPT.md",
+    "01. Rercherche/01. Journal/2026-04-30 FeatureStore - EN.md",
+    "03. Prochaines étapes/2026-05-04 Labo experimental.md",
     "01. Rercherche/01. Journal/FeatureStore - Code.md",
+    "README.md",
+    "03. Prochaines étapes/2026-05-02 - Prochaines étapes.md",
+    "01. Rercherche/02. Diagrammes/MarketDataLayer.drawio",
+    "01. Rercherche/02. Diagrammes/FeatureLayer.drawio",
+    "01. Rercherche/02. Diagrammes/CompletePipeline.drawio",
+    "03. Prochaines étapes",
+    "01. Rercherche/01. Journal/2026-04-27 FeatureStore.md",
     "05. Review/01. Design/FeatureStore - code.pdf",
     "05. Review/01. Design/test.pdf",
-    "01. Rercherche/01. Journal/2026-04-30 FeatureStore - EN.md",
     "05. Review/01. Design/2026-04-30 FeatureStore - EN.pdf",
     "05. Review/01. Design/2026-04-27 FeatureStore.pdf",
-    "01. Rercherche/01. Journal/2026-04-21 Market Data Layer.md",
-    "01. Rercherche/01. Journal/2026-04-25 FeatureCalculator.md",
     "01. Rercherche/01. Journal/2026-04-25 FeatureCalculator EN.md",
     "06. Documentation/2026-04-23.md",
     "01. Rercherche/01. Journal/2026-04-22 Formalisation FeatureLayer.md",
     "07. Diagrammes/01. DrawIO/FeatureLayer.drawio.crswap",
-    "02. Méthodologie/2. Méthode de travail sans GPT.md",
     "01. Rercherche/01. Journal/2026-04-23 Formalisation FeatureCalculator.md",
     "05. Review/01. Design/2026-04-23 - Review - FeatureCalculator.md",
     "07. Diagrammes/01. DrawIO/MarketDataLayer.drawio.crswap",
-    "07. Diagrammes/01. DrawIO/FeatureLayer.drawio",
     "01. Rercherche/01. Journal/2026-01-01- Veille Architectures OMS.md",
     "01. Rercherche/01. Journal/2026-01-01 - Objectif du refactor.md",
-    "07. Diagrammes/01. DrawIO/CompletePipeline.drawio.crswap",
-    "05. Review/03. Tests",
-    "05. Review/Nouveau dossier",
     "06. Documentation/2026-04-22 Market Data Layer.md",
     "04. Communication/2026-04-21.md",
-    "04. Communication/2026-04-03 Video about FeatureStore and Feature engineering.md",
-    "05. Review/2026-04-21 Tests review.md",
-    "02. Méthodologie/1. Design of trading systems.md",
-    "01. Rercherche/03. Journal/2026-04-19 - Formalisation de la MDL.md",
-    "2026-04-2026 Formalization of the MDL.md",
-    "April 19, 2026 - Formalization of the MDL.md",
-    "03. Perso/Trajectoire.md",
-    "03. Perso/Entretien mardi 21 avril 2026.md",
-    "01. Rercherche/01. Journal/2026-01-01- Philosophie plateforme et principes de conception.md",
-    "03. Perso/Personnalisation GPT.md"
+    "04. Communication/2026-04-03 Video about FeatureStore and Feature engineering.md"
   ]
 }

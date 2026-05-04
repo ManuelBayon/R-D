@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="DgqKJkscdkDKtvN0FUJF">
-    <mxGraphModel dx="1178" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="912" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -201,6 +201,14 @@
         </mxCell>
         <mxCell id="hVtf-ayT2ZCecubrCFBd-47" parent="1" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="list[Fill]" vertex="1">
           <mxGeometry height="40" width="150" x="450" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="TKFSEJomnbN9tRv-R7Eq-2" edge="1" parent="1" source="TKFSEJomnbN9tRv-R7Eq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="509.9677419354839" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TKFSEJomnbN9tRv-R7Eq-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Add RiskEngine between Decision and Transition Resolver" vertex="1">
+          <mxGeometry height="60" width="130" x="300" y="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
