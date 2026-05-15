@@ -21,7 +21,7 @@ M.D.L = Market Data Layer
 ---
 ## Mutation et état
 
-- La MDL possède l’état du marché qui se matérialise par une `list[MarketDataEvent]`.
+- La MDL possède l’état du marché qui se matérialise par une `list[Bar]`.
 - Le seul composant habilité à appeler `ingest()` est l'orchestrateur `BacktestEngine`.
 - Aucun accès en écriture à `_history` n’est exposé à l’extérieur.
 
