@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "097478115fda510c",
+        "id": "696f4282a2bf3e59",
         "type": "tabs",
         "children": [
           {
-            "id": "425f86d980ff7940",
+            "id": "e1adc5f4d097273b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. InvestIQ-v2 - Recherche/2026-05-15 Noyau causal côté stratégie.md",
+                "file": "02. InvestIQ v2/01. R&D/01. Research log/TEMPLATE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-15 Noyau causal côté stratégie"
+              "title": "TEMPLATE"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506.5,
-    "collapsed": true
+    "width": 506.5
   },
   "right": {
     "id": "5ae9817d9a9c4148",
@@ -175,54 +174,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "425f86d980ff7940",
+  "active": "e1adc5f4d097273b",
   "lastOpenFiles": [
-    "02. InvestIQ-v2 - Recherche/Diagrams/canonical_event_schema.drawio.crswap",
-    "01. InvestIQ-v1 - Recherche/01. Journal/2026-04-27 FeatureStore.md",
-    "02. InvestIQ-v2 - Recherche/2026-05-15 Noyau causal côté stratégie.md",
-    "01. InvestIQ-v1 - Recherche/01. Journal/2026-04-21 Market Data Layer.md",
-    "02. InvestIQ-v2 - Recherche/2026-05-13 Mixed concepts.md",
-    "02. InvestIQ-v2 - Recherche/2026-05-06. Bougie.md",
-    "02. InvestIQ-v2 - Recherche/2026-05-08 Représentation temps.md",
+    "02. InvestIQ v2/01. R&D/02. Components/TEMPLATE.md",
+    "02. InvestIQ v2/01. R&D/03. Causal chains/TEMPLATE.md",
+    "02. InvestIQ v2/01. R&D/05. Scenarios/TEMPLATE.md",
+    "02. InvestIQ v2/01. R&D/04. ADR/TEMPLATE.md",
+    "02. InvestIQ v2/01. R&D/03. Causal chains/02. Causal chains/2026-05-15 Strategy side.md",
+    "04. Méthodologie R&D/2026-05-17 Méthode Documentation R&D.md",
+    "02. InvestIQ v2/01. R&D/03. Causal chains/02. Causal chains",
+    "02. InvestIQ v2/01. R&D/05. Scenarios",
+    "02. InvestIQ v2/01. R&D/02. Components/2026-05-17 Decision Layer.md",
+    "02. InvestIQ v2/01. R&D/02. Components/2026-05-17 FeatureStore.md",
+    "02. InvestIQ v2/01. R&D/02. Components/2026-05-14 MarketStore.md",
+    "02. InvestIQ v2/01. R&D/02. Components/2026-05-06 Bar.md",
+    "02. InvestIQ v2/01. R&D/01. Research log/TEMPLATE.md",
+    "02. InvestIQ v2/01. R&D/01. Research log/2026-05-08 Représentation temps.md",
+    "02. InvestIQ v2/01. R&D/01. Research log",
+    "02. InvestIQ v2/01. R&D/04. ADR",
+    "02. InvestIQ v2/01. R&D",
+    "02. InvestIQ-v2 - Recherche/Untitled",
+    "04. Méthodologie R&D",
+    "02. InvestIQ-v2 - Recherche/Sans titre.md",
+    "02. InvestIQ v2/01. R&D/03. Causal chains",
+    "02. InvestIQ v2/01. R&D/02. Components",
+    "02. InvestIQ-v2 - Recherche/01. Chaine causale côté stratégie/2026-05-16.md",
+    "04. Methodologie/05. Documentation en phase de R&D.md",
+    "04. Methodologie/03. Gérer émergence architecture.md",
+    "04. Methodologie/04. Externaliser la pensée.md",
+    "02. InvestIQ-v2 - Recherche/01. Strategy side causal chain/2026-05-16 Start to document the R&D process.md",
+    "02. InvestIQ-v2 - Recherche/01. Chaine causale côté stratégie",
+    "03. Python/2026-05-06.md",
+    "04. Methodologie/02. Émergence architecture.md",
     "04. Methodologie/01. R&D efficace.md",
+    "01. InvestIQ v1/01. Journal/2026-04-27 FeatureStore.md",
+    "01. InvestIQ v1/01. Journal/2026-04-21 Market Data Layer.md",
+    "02. InvestIQ-v2 - Recherche/2026-05-13 Mixed concepts.md",
     "02. InvestIQ-v2 - Recherche/2026-05-13.md",
     "Pasted image 20260513135426.png",
-    "01. InvestIQ-v1 - Recherche/01. Journal/2026-05-04 MarketDataLayer v1.2.md",
+    "01. InvestIQ v1/01. Journal/2026-05-04 MarketDataLayer v1.2.md",
     "02. InvestIQ-v2 - Recherche/Diagrams/2026-05-13 Canonical_event_schema.drawio.png",
-    "canonical_event_schema-Events.drawio.png",
-    "02. InvestIQ-v2 - Recherche/Diagrams/canonical_event_schema.drawio",
-    "02. InvestIQ-v2 - Recherche/Diagrams",
-    "02. InvestIQ-v2 - Recherche/Nouveau dossier",
-    "04. Methodologie",
-    "02. InvestIQ-v2 - Recherche/2026-05-08 Aggrégation de bougies.md",
-    "Time.md",
-    "03. Python/2026-05-06.md",
-    "03. Python",
-    "02. Méthodologie/3. Itérations R&D.md",
-    "01. InvestIQ-v1 - Recherche/01. Journal/2026-05-05 Dispatch.md",
-    "02. InvestIQ-v2 - Recherche",
-    "01. InvestIQ-v1 - Recherche/01. Journal/2026-05-05 Sandbox.md",
-    "01. InvestIQ-v1 - Recherche/01. Journal/2026-05-05 Router.md",
-    "01. InvestIQ-v1 - Recherche/01. Journal/2026-05-05 Event Loop.md",
-    "01. InvestIQ-v1 - Recherche/01. Journal/2026-05-05 Event-driven.md",
-    "01. InvestIQ-v1 - Recherche/01. Journal/2026-05-04 Unification backtest-live-replay.md",
-    "01. InvestIQ-v1 - Recherche/01. Journal/2026-05-04 Event Model.md",
-    "02. Méthodologie/4. Prompt GPT R&D.md",
-    "01. Rercherche/01. Journal/2026-05-04 Réflexions sémantique events vs payload.md",
-    "01. InvestIQ-v1 - Recherche/01. Journal/2026-05-04 Journal canonique et mini replay engine.md",
-    "01. InvestIQ-v1 - Recherche/01. Journal/2026-04-25 FeatureCalculator.md",
-    "02. Méthodologie/2. Méthode de travail sans GPT.md",
-    "01. InvestIQ-v1 - Recherche/02. Diagrammes/MarketDataLayer.drawio",
-    "01. InvestIQ-v1 - Recherche/02. Diagrammes/FeatureLayer.drawio",
-    "01. InvestIQ-v1 - Recherche/02. Diagrammes/CompletePipeline.drawio"
+    "canonical_event_schema-Events.drawio.png"
   ]
 }
